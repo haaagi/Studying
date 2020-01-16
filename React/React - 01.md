@@ -3,6 +3,8 @@
 ### 프로젝트 생성하기
 
 ```bash
+yarn install   // 이거 먼저 해줘야 한다
+
 npm install -g create-react-app // npm으로 설치하기
 
 yarn global add create-react-app // yarn 으로 설치하기
